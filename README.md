@@ -7,6 +7,7 @@ Learning Java Script from the basics
 3. Rock, Paper, Scissors
 4. Get dog image
 5. Super Hero App
+6. Weather App (Incomplete)
 
 ## Reference
 [Clever Programmer](https://www.youtube.com/watch?v=lI1ae4REbFM)
