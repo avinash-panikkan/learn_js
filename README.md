@@ -7,7 +7,7 @@ Learning Java Script from the basics
 3. Rock, Paper, Scissors
 4. Get dog image
 5. Super Hero App
-6. Weather App (Incomplete)
+6. Weather App 
 7. Fighting Game
 
 ## Reference
